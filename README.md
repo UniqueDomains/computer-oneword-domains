@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COMPUTER one-word domains still available to buy.
 
-This dataset contains 4,067 .COMPUTER one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,103 .COMPUTER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COMPUTER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=computer-oneword-domains&utm_content=description.top) (3,788) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.COMPUTER one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/computer-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.csv"><b>⬇️ CSV (4.07K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.json"><b>⬇️ JSON (4.07K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.csv"><b>⬇️ CSV (4.1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.json"><b>⬇️ JSON (4.1K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=computer-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.computer  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.computer      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.computer  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.computer    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.computer     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.computer   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.computer     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.computer    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.computer   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.computer  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.computer  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.computer | available | 56       | 1%     | 10     |           |         |         |
-| abducens.computer   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.computer   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.computer  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.computer    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.computer | available | 68       | 1%     | 10     |           |         |         |
-| abeyant.computer    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.computer  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.computer    | available | 106      | 5%     | 7      |           |         |         |
-| abient.computer     | available | 54       | 1%     | 6      |           |         |         |
-| abit.computer       | available | 66       | 16%    | 5      |           |         |         |
-| abject.computer     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.computer     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.computer  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.computer     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.computer  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.computer    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.computer   | available | 68       | 3%     | 8      |           |         |         |
-| ablaze.computer     | available | 72       | 6%     | 6      |           |         |         |
+| Domain              | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
+| aaa.computer        | available | 70       | 38%    | 3      |              |                  |                  |
+| abactinal.computer  | available | 50       | 1%     | 9      |              |                  |                  |
+| abaft.computer      | available | 43       | 2%     | 5      |              |                  |                  |
+| abandoned.computer  | available | 58       | 10%    | 9      |              |                  |                  |
+| abashed.computer    | available | 60       | 2%     | 7      |              |                  |                  |
+| abasic.computer     | available | 54       | 2%     | 6      |              |                  |                  |
+| abatable.computer   | available | 54       | 1%     | 8      |              |                  |                  |
+| abatic.computer     | available | 54       | 2%     | 6      |              |                  |                  |
+| abaxial.computer    | available | 54       | 2%     | 7      |              |                  |                  |
+| abbatial.computer   | available | 50       | 1%     | 8      |              |                  |                  |
+| abc.computer        | resell    | 102      | 41%    | 3      | Sav.com, LLC | 05/07/2024 14:14 | 05/07/2026 14:14 |
+| abdicable.computer  | available | 50       | 1%     | 9      |              |                  |                  |
+| abdominal.computer  | available | 82       | 1%     | 9      |              |                  |                  |
+| abdominous.computer | available | 56       | 1%     | 10     |              |                  |                  |
+| abducens.computer   | available | 54       | 1%     | 8      |              |                  |                  |
+| abducent.computer   | available | 68       | 1%     | 8      |              |                  |                  |
+| abducting.computer  | available | 50       | 1%     | 9      |              |                  |                  |
+| abenaki.computer    | available | 82       | 3%     | 7      |              |                  |                  |
+| aberdonian.computer | available | 68       | 1%     | 10     |              |                  |                  |
+| abeyant.computer    | available | 56       | 2%     | 7      |              |                  |                  |
+| abhorrent.computer  | available | 54       | 1%     | 9      |              |                  |                  |
+| abiding.computer    | available | 106      | 5%     | 7      |              |                  |                  |
+| abient.computer     | available | 54       | 1%     | 6      |              |                  |                  |
+| ability.computer    | available | 92       | 18%    | 7      |              |                  |                  |
+| abit.computer       | available | 66       | 16%    | 5      |              |                  |                  |
+| abject.computer     | available | 94       | 8%     | 6      |              |                  |                  |
+| abkhas.computer     | available | 68       | 1%     | 6      |              |                  |                  |
+| abkhasian.computer  | available | 78       | 1%     | 9      |              |                  |                  |
+| abkhaz.computer     | available | 82       | 2%     | 6      |              |                  |                  |
+| abkhazian.computer  | available | 78       | 1%     | 9      |              |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/computer-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.csv"><b>⬇️ CSV (4.07K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.json"><b>⬇️ JSON (4.07K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.csv"><b>⬇️ CSV (4.1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/computer-oneword-domains/blob/main/computer.json"><b>⬇️ JSON (4.1K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=computer-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.79K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
