@@ -1,10 +1,10 @@
-# Available .COMPUTER One-Word Domains (8,679)
+# Available .COMPUTER One-Word Domains (8,681)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C681%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C679%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C681%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .computer one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,681 rows · **Live catalog:** 8,679 domains
+**Public extract:** 8,681 rows · **Live catalog:** 8,681 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/computer`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | snap.computer      | available | $29.99    | $50.99        | 90             | 46     | 4      | name.com         |
 | computing.computer | resell    | $29.99    | —             | 78             | 18     | 9      | GoDaddy.com, LLC |
-| mix.computer       | premium   | $82.50    | $82.50        | 66             | 45     | 3      | name.com         |
+| mix.computer       | premium   | $82.50    | $82.50        | 66             | 44     | 3      | name.com         |
 | strategy.computer  | available | $48.98    | —             | 74             | 43     | 8      | namecheap        |
 | center.computer    | resell    | —         | —             | 78             | 99     | 6      | Sav.com, LLC     |
 | elite.computer     | premium   | $82.50    | $82.50        | 90             | 43     | 5      | name.com         |
@@ -82,7 +82,7 @@ print(df.head())
 | sales.computer     | available | $48.98    | —             | 66             | 37     | 5      | namecheap        |
 | sex.computer       | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | total.computer     | premium   | $123.75   | $123.75       | 108            | 38     | 5      | name.com         |
-| goon.computer      | available | $29.99    | $50.99        | 80             | 36     | 5      | name.com         |
+| short.computer     | available | $29.99    | $50.99        | 76             | 36     | 5      | name.com         |
 | echo.computer      | resell    | —         | —             | 68             | 57     | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,681-row public sample | 8,679 live domains                               |
+| 8,681-row public sample | 8,681 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
