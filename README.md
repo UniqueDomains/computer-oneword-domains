@@ -68,22 +68,22 @@ print(df.head())
 | computing.computer | resell    | $29.99    | —             | 78             | 18     | 9      | GoDaddy.com, LLC |
 | mix.computer       | premium   | $82.50    | $82.50        | 66             | 45     | 3      | name.com         |
 | strategy.computer  | available | $48.98    | —             | 74             | 43     | 8      | namecheap        |
-| center.computer    | resell    | —         | —             | 78             | 99     | 6      | Sav.com, LLC     |
+| news.computer      | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC     |
 | elite.computer     | premium   | $82.50    | $82.50        | 90             | 43     | 5      | name.com         |
 | skill.computer     | available | $48.98    | —             | 120            | 40     | 5      | namecheap        |
-| news.computer      | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC     |
-| pop.computer       | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com         |
-| gather.computer    | available | $29.99    | $50.99        | 96             | 38     | 6      | name.com         |
 | home.computer      | resell    | —         | —             | 100            | 62     | 4      | Porkbun LLC      |
+| pop.computer       | premium   | $82.50    | $82.50        | 82             | 43     | 3      | name.com         |
+| gather.computer    | available | $29.99    | $50.99        | 96             | 39     | 6      | name.com         |
+| the.computer       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
 | track.computer     | premium   | $82.50    | $82.50        | 94             | 42     | 5      | name.com         |
 | student.computer   | available | $48.98    | —             | 78             | 38     | 7      | namecheap        |
-| the.computer       | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH        |
+| sex.computer       | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
 | aaa.computer       | premium   | $85.80    | $85.80        | 70             | 42     | 3      | namecheap        |
 | sales.computer     | available | $48.98    | —             | 66             | 37     | 5      | namecheap        |
-| sex.computer       | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc      |
+| echo.computer      | resell    | —         | —             | 68             | 57     | 4      | Spaceship, Inc.  |
 | total.computer     | premium   | $123.75   | $123.75       | 108            | 38     | 5      | name.com         |
 | short.computer     | available | $29.99    | $50.99        | 76             | 36     | 5      | name.com         |
-| echo.computer      | resell    | —         | —             | 68             | 57     | 4      | Spaceship, Inc.  |
+| smart.computer     | resell    | —         | —             | 74             | 56     | 5      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
