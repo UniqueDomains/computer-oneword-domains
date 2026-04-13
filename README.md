@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .computer one-word domains from Un
 
 **Public extract:** 8,682 rows · **Live catalog:** 8,681 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/computer`  
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | snap.computer      | available | $29.99    | $50.99        | 90             | 46     | 4      | name.com         |
 | computing.computer | resell    | $29.99    | —             | 78             | 18     | 9      | GoDaddy.com, LLC |
-| mix.computer       | premium   | $82.50    | $82.50        | 66             | 44     | 3      | name.com         |
+| mix.computer       | premium   | $82.50    | $82.50        | 66             | 45     | 3      | name.com         |
 | strategy.computer  | available | $48.98    | —             | 74             | 43     | 8      | namecheap        |
 | center.computer    | resell    | —         | —             | 78             | 99     | 6      | Sav.com, LLC     |
 | elite.computer     | premium   | $82.50    | $82.50        | 90             | 43     | 5      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
