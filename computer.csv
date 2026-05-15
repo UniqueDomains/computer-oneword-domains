@@ -209,7 +209,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 149a431c-dcfd-4a0c-b1da-73052ed8d7ee,receives.computer,available,29.99,,52,3,8,name.com,,
 14a4cbff-59ef-4a77-8aba-7201eb0e3239,CountyofMitchell.computer,available,29.99,,42,0,18,name.com,,
 14a78bae-2d66-43cf-b600-49d6713c0cd4,bankers.computer,available,29.99,,52,11,7,name.com,,
-14b430c2-d35b-453d-a94e-535f3f3d6d8a,tasks.computer,available,29.99,,66,24,5,name.com,,
+14b430c2-d35b-453d-a94e-535f3f3d6d8a,tasks.computer,available,29.99,,66,22,5,name.com,,
 14cc4eaa-620f-45b1-ad68-08d500200979,havenobusiness.computer,available,29.99,,60,1,16,name.com,,
 14d5d7be-030c-4e62-86be-66137d62e461,onstage.computer,available,29.99,,64,14,8,name.com,,
 14d71703-e77e-496d-94d4-ea3c6fb83c12,sizes.computer,available,29.99,,50,5,5,name.com,,
