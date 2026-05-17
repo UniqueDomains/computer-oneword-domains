@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .computer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $32.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/computer`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | icons.computer        | premium   | $82.50    | —             | 68             | 19     | 5      | name.com     |
 | videos.computer       | available | $29.99    | —             | 52             | 30     | 6      | name.com     |
 | LongBeach.computer    | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap    |
-| popup.computer        | available | $29.99    | —             | 84             | 29     | 6      | name.com     |
-| recycled.computer     | premium   | $123.75   | —             | 79             | 10     | 8      | name.com     |
 | quotes.computer       | available | $29.99    | —             | 58             | 29     | 6      | name.com     |
+| recycled.computer     | premium   | $123.75   | —             | 79             | 10     | 8      | name.com     |
+| blocks.computer       | available | $29.99    | —             | 53             | 29     | 6      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
