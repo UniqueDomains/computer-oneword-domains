@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .computer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $32.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/computer`  
 **Best for:** founders, investors, studios
 
@@ -70,17 +70,17 @@ print(df.head())
 | neuroscience.computer | available | $29.99    | —             | 80             | 37     | 12     | name.com     |
 | WiFi.computer         | resell    | —         | —             | 83             | 37     | 5      | Sav.com, LLC |
 | Keith.computer        | premium   | $46.20    | $46.20        | 66             | 25     | 5      | namecheap    |
-| partners.computer     | available | $29.99    | —             | 61             | 32     | 8      | name.com     |
+| trends.computer       | available | $29.99    | —             | 60             | 32     | 6      | name.com     |
 | slots.computer        | resell    | —         | —             | 49             | 31     | 5      | Sav.com, LLC |
 | shops.computer        | premium   | $123.75   | —             | 64             | 24     | 5      | name.com     |
-| trends.computer       | available | $29.99    | —             | 60             | 32     | 6      | name.com     |
-| children.computer     | premium   | $123.75   | —             | 68             | 21     | 8      | name.com     |
-| punk.computer         | available | $29.99    | —             | 70             | 30     | 4      | name.com     |
+| partners.computer     | available | $29.99    | —             | 61             | 31     | 8      | name.com     |
 | geeks.computer        | premium   | $82.50    | —             | 54             | 21     | 5      | name.com     |
-| rewards.computer      | available | $29.99    | —             | 62             | 30     | 7      | name.com     |
+| punk.computer         | available | $29.99    | —             | 70             | 30     | 4      | name.com     |
 | icons.computer        | premium   | $82.50    | —             | 68             | 19     | 5      | name.com     |
+| rewards.computer      | available | $29.99    | —             | 62             | 30     | 7      | name.com     |
+| children.computer     | premium   | $123.75   | —             | 68             | 19     | 8      | name.com     |
 | videos.computer       | available | $29.99    | —             | 52             | 30     | 6      | name.com     |
-| LongBeach.computer    | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap    |
+| LongBeach.computer    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap    |
 | quotes.computer       | available | $29.99    | —             | 58             | 29     | 6      | name.com     |
 | recycled.computer     | premium   | $123.75   | —             | 79             | 10     | 8      | name.com     |
 | blocks.computer       | available | $29.99    | —             | 53             | 29     | 6      | name.com     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
