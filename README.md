@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .computer one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,623 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $32.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,623 domains · **Median ask:** $32.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/computer`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/computer`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COMPUTER one-word dom
 
 ### Files
 
-- `computer.csv` — public CSV extract (1,000 rows)
-- `computer.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `computer.csv`, public CSV extract (1,000 rows)
+- `computer.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| matcha.computer       | available | $29.99    | —             | 86             | 39     | 6      | name.com     |
-| robots.computer       | resell    | —         | —             | 62             | 47     | 6      | Sav.com, LLC |
-| has.computer          | premium   | $82.50    | —             | 60             | 26     | 3      | name.com     |
-| neuroscience.computer | available | $29.99    | —             | 80             | 37     | 12     | name.com     |
-| WiFi.computer         | resell    | —         | —             | 83             | 37     | 5      | Sav.com, LLC |
-| Keith.computer        | premium   | $46.20    | $46.20        | 66             | 25     | 5      | namecheap    |
-| trends.computer       | available | $29.99    | —             | 60             | 32     | 6      | name.com     |
-| slots.computer        | resell    | —         | —             | 49             | 31     | 5      | Sav.com, LLC |
-| shops.computer        | premium   | $123.75   | —             | 64             | 24     | 5      | name.com     |
-| partners.computer     | available | $29.99    | —             | 61             | 31     | 8      | name.com     |
-| geeks.computer        | premium   | $82.50    | —             | 54             | 21     | 5      | name.com     |
-| punk.computer         | available | $29.99    | —             | 70             | 30     | 4      | name.com     |
-| icons.computer        | premium   | $82.50    | —             | 68             | 19     | 5      | name.com     |
-| rewards.computer      | available | $29.99    | —             | 62             | 30     | 7      | name.com     |
-| children.computer     | premium   | $123.75   | —             | 68             | 19     | 8      | name.com     |
-| videos.computer       | available | $29.99    | —             | 52             | 30     | 6      | name.com     |
-| LongBeach.computer    | premium   | $92.40    | $92.40        | 62             | 12     | 10     | namecheap    |
-| quotes.computer       | available | $29.99    | —             | 58             | 29     | 6      | name.com     |
-| recycled.computer     | premium   | $123.75   | —             | 79             | 10     | 8      | name.com     |
-| blocks.computer       | available | $29.99    | —             | 53             | 29     | 6      | name.com     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| cry.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| the.computer  | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
+| age.computer  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| dip.computer  | available | $29.99    | $50.99        | high           | low    | 3      | name.com        |
+| base.computer | resell    | —         | —             | medium         | medium | 4      | Porkbun LLC     |
+| ago.computer  | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com        |
+| few.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| care.computer | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| her.computer  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| gag.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| comp.computer | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
+| hit.computer  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| ike.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| cure.computer | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| how.computer  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| kgb.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| echo.computer | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc. |
+| its.computer  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
+| let.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| firm.computer | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is focused entirely on one-word .computer domains. The set spans broad dictionary terms, abstract words, functional verbs, and more literal terms, as seen in examples like serve.computer, touch.computer, trophy.computer, and agnostic.computer. For founders, the main question is whether the word stays memorable and credible when paired with .computer. For investors, the key issue is buyer fit: this extension is specific, so resale depends on how naturally the word and TLD work together. With a median ask of 32.51, entry pricing may look light, but the stronger names are the ones where the extension adds meaning rather than friction.
+This selection includes 11,623 one-word domain names on the .computer extension, spanning 506 TLD variations with a median ask near $33. The set ranges from tech-forward terms like hightech.computer to everyday, brandable words such as makeit.computer and flaxseed.computer, giving investors tracking pricing spreads and founders searching for an ownable one-word name a broad pool to compare. Because .computer carries a clear technology association, these domains suit software, hardware, IT services, and computing-adjacent brands, while remaining affordable enough for early-stage shortlisting.
 
-- Prioritize words that read naturally with .computer
-- Check ask price against long-term renewal tolerance
-- Favor clear, simple words over awkward pairings
-- Watch for trademark and category confusion risk
+- 11,623 one-word .computer domains available now
+- Median ask near $33 — budget-friendly for shortlisting
+- Spans 506 TLD variations for cross-extension comparison
+- Includes tech, service & everyday names like hightech.computer
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
