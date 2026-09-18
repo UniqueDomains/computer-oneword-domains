@@ -107,7 +107,6 @@ b06f607b-f5bc-4780-a8e2-94c6f706a6d7,economical.computer,available,29.99,50.99,m
 911c73d6-437f-4559-8b57-abea7c9bb057,lousy.computer,available,29.99,50.99,medium,low,5,name.com,,,
 d09854ba-04de-4d8a-9a71-e7a5fecb4dab,anesthesia.computer,available,29.99,,high,low,10,name.com,,,
 d0b95a87-4f48-476d-a797-e9c867114cdc,abaxial.computer,available,22.48,48.98,low,low,7,namecheap,,,
-301af915-9ed1-4825-bdf4-9051de4e121d,insure.computer,resell,,,high,low,6,"Sav.com, LLC",08/07/2023 01:29,08/07/2026 01:29,
 5c7406d2-0206-4222-800c-90fb8a3942be,silvery.computer,available,22.48,48.98,low,low,7,namecheap,,,06/08/2026 17:56
 a24ee62b-c4e7-43ad-acf4-5eadc3917fa2,years.computer,available,29.99,,high,low,5,name.com,,,
 8ab18a42-c05a-4b72-ab56-2c5c10ef1231,retired.computer,available,29.99,,high,low,7,name.com,,,
@@ -462,7 +461,7 @@ f80df32b-166e-4942-9e8d-f14818bc8fbb,europe.computer,premium,118.8,118.8,medium,
 4eee4fe4-11ce-4b8e-b47c-2343f6f26fe2,tip.computer,premium,78.54,78.54,high,low,3,namesilo,,,
 7b7efd73-9e15-4ca1-ba9b-a46a55b11c8a,WestBranch.computer,available,29.99,,low,low,11,name.com,,,
 1b7ddbd2-a39e-45c9-8047-d2f9342f0b71,hands.computer,available,29.99,,medium,low,5,name.com,,,
-63d4cb65-52c2-44a9-9684-167024bae649,the.computer,resell,,,high,medium,3,1API GmbH,05/07/2015 16:00,05/07/2026 16:00,
+63d4cb65-52c2-44a9-9684-167024bae649,the.computer,resell,,,high,medium,3,1API GmbH,05/07/2015 16:00,05/07/2027 16:00,17/09/2026 16:56
 a5532a1f-4a00-4f7e-8af2-ef8da09e8aad,elite.computer,premium,82.5,82.5,high,medium,5,name.com,,,
 1b86ca56-7421-4cd9-bd14-b40bc24ecc6d,gillless.computer,available,22.48,48.98,low,low,9,namecheap,,,
 d7536e59-fe3d-46f8-84b4-63651443dce4,troika.computer,available,22.48,48.98,low,low,6,namecheap,,,
@@ -939,7 +938,6 @@ d4dbc9d2-81f6-4a42-a91a-bc7ded3c6554,trey.computer,available,22.48,48.98,medium,
 5a385f9e-83ef-4460-b14d-ec9f75d84a17,tentbed.computer,available,29.99,,high,low,8,name.com,,,
 9d82314e-9c8c-43c1-adfe-9825c68d2fcd,jointly.computer,available,29.99,,medium,low,7,name.com,,,
 8f98f2bb-2f01-42b7-8451-4fbeeff904b0,sinners.computer,available,29.99,,low,low,7,name.com,,,
-dd6b8d96-33e0-4582-b3c6-1c6edc8a6d0a,firm.computer,resell,,,high,low,4,"Sav.com, LLC",07/07/2024 00:28,07/07/2026 00:28,
 b4291e1f-240b-48d1-bdbd-352c928b3ed9,mydearfellow.computer,available,29.99,,low,low,14,name.com,,,
 fd82c5be-4ae8-4577-bfaf-51b512cfe78b,landline.computer,available,29.99,,medium,low,9,name.com,,,
 74175e52-104f-42c8-baf6-09d37edaa954,rheumatic.computer,available,22.48,48.98,low,low,9,namecheap,,,06/08/2026 23:05
@@ -961,7 +959,6 @@ ff8a9558-f3f5-42ee-84c2-f7bd69f8f1ca,whoreson.computer,available,22.48,48.98,low
 ff7dab95-b468-48f7-8c51-97d683e44b8f,hard.computer,available,22.48,48.98,low,low,4,namecheap,,,06/08/2026 16:55
 05803a4b-1ae9-4aa5-a291-1f2c72cab682,kleenex.computer,available,29.99,,high,low,7,name.com,,,
 3f5a3acd-4b26-43e0-bb6f-e16e08b844a8,fivestar.computer,available,29.99,,high,low,9,name.com,,,
-5447939a-f6a4-45ae-9b4e-3d7f634741ae,property.computer,resell,,,high,low,8,"Sav.com, LLC",10/07/2023 21:39,10/07/2026 21:39,
 9700abb8-a2d6-4f73-b5ab-7c8975e4fbd0,bacteroid.computer,available,22.48,48.98,low,low,9,namecheap,,,08/08/2026 07:12
 46194b78-e033-493a-b70a-705e59e53271,tho.computer,available,29.99,,medium,low,3,name.com,,,
 185da1ef-14d0-4e37-9b0d-b9f9d8b54949,papal.computer,available,22.48,48.98,low,low,5,namecheap,,,06/08/2026 04:09
@@ -999,3 +996,6 @@ a39e5c9c-272a-49ed-9815-0760f79a3dca,grasping.computer,available,22.48,48.98,low
 789d48f1-3fd2-420e-aa91-4571590ad32c,cure.computer,resell,,,high,low,4,"Sav.com, LLC",28/06/2024 22:19,28/06/2026 22:19,
 094f3132-24a1-40fb-8b14-cafc4c243e3b,disguise.computer,available,29.99,,high,low,8,name.com,,,
 237d849b-3779-4662-af63-c77be7e12e75,archival.computer,available,22.48,48.98,low,low,8,namecheap,,,06/08/2026 15:53
+622377cd-fffc-4a32-90c3-d735c1e3885c,toadfrog.computer,available,22.48,48.98,low,low,9,namecheap,,,05/08/2026 21:11
+310ad2f8-ad0a-4321-b6aa-9133f209bfe2,diverting.computer,available,22.48,48.98,low,low,9,namecheap,,,
+59f71dfd-94ba-4cdf-8048-a012eaff69e5,evolve.computer,available,29.99,,high,low,6,name.com,,,
