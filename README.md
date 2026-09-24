@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .computer one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,035 domains · **Median ask:** $25.73 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/computer`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aft.computer  | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
-| the.computer  | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
-| age.computer  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
-| clx.computer  | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
-| base.computer | resell    | —         | —             | low            | low    | 4      | Porkbun LLC     |
-| ago.computer  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo        |
-| cry.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
-| care.computer | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
-| clv.computer  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo        |
-| cxv.computer  | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
-| comp.computer | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
-| her.computer  | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| cxx.computer  | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
-| cure.computer | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
-| hit.computer  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| dip.computer  | available | $29.99    | $50.99        | high           | low    | 3      | name.com        |
-| echo.computer | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc. |
-| how.computer  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| few.computer  | available | $29.99    | —             | high           | low    | 3      | name.com        |
-| logo.computer | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| aft.computer   | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
+| the.computer   | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
+| age.computer   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
+| clx.computer   | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
+| base.computer  | resell    | —         | —             | low            | low    | 4      | Porkbun LLC     |
+| ago.computer   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo        |
+| cry.computer   | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| care.computer  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| clv.computer   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo        |
+| cxv.computer   | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
+| comp.computer  | resell    | —         | —             | low            | low    | 4      | Porkbun LLC     |
+| her.computer   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| cxx.computer   | available | $22.48    | $48.98        | low            | low    | 3      | namecheap       |
+| echo.computer  | resell    | —         | —             | medium         | medium | 4      | Spaceship, Inc. |
+| hit.computer   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| dip.computer   | available | $29.99    | $50.99        | high           | low    | 3      | name.com        |
+| news.computer  | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC    |
+| how.computer   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| few.computer   | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| chart.computer | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COMPUTER One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
