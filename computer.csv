@@ -1,9 +1,9 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5237e5d6-40b6-4c90-95d0-b6084a4cc11f,autograph.computer,available,23.99,38.99,high,low,9,namesilo,,,21/09/2026 06:37
-b84fc966-9ed2-426d-b3d3-400d6f4b84cf,belt.computer,available,29.99,,high,low,4,name.com,,,
+b84fc966-9ed2-426d-b3d3-400d6f4b84cf,belt.computer,available,23.99,38.99,high,low,4,namesilo,,,27/09/2026 06:58
 c3c8d124-2346-4d38-9919-35cf957838d8,obnubilate.computer,available,22.48,48.98,low,low,10,namecheap,,,03/09/2026 23:55
 3a31b9fa-459a-44e8-b5d9-54ede9e1c280,derivative.computer,available,22.48,48.98,high,low,10,namecheap,,,14/08/2026 03:01
-72fe1e4b-575a-43f5-8256-76cf8040d56e,technique.computer,available,29.99,,high,low,9,name.com,,,
+72fe1e4b-575a-43f5-8256-76cf8040d56e,technique.computer,available,23.99,38.99,high,low,9,namesilo,,,27/09/2026 06:58
 d0b95a87-4f48-476d-a797-e9c867114cdc,abaxial.computer,available,22.48,48.98,medium,low,7,namecheap,,,
 2e696a0e-7ff8-468c-b6c3-531b467eb8f9,kicked.computer,available,22.48,48.98,medium,low,6,namecheap,,,25/09/2026 19:40
 b71deb10-10cb-4f18-be4b-f434ba018c6d,contestant.computer,available,22.48,48.98,medium,low,10,namecheap,,,14/08/2026 12:45
@@ -31,6 +31,7 @@ a3380fed-d4dd-4875-85ca-b1d6eec9e8df,bounce.computer,available,22.48,48.98,high,
 6eda54e7-83b2-41f9-9d3b-891187b27820,dense.computer,available,22.48,48.98,high,low,5,namecheap,,,08/09/2026 15:39
 d67f3c9a-6370-4083-89c9-8bb7ef428558,sub.computer,premium,78.54,78.54,high,low,3,namesilo,,,
 9b7da981-814a-4f9a-a542-133c54c29425,gradual.computer,available,22.48,48.98,high,low,7,namecheap,,,20/08/2026 17:40
+77e74351-30f3-4e09-85d2-d37eb10863ad,fishing.computer,available,23.99,38.99,high,low,7,namesilo,,,27/09/2026 03:59
 e54f7d40-4ab6-4d24-a858-24b4d08363e4,basinet.computer,available,23.99,38.99,medium,low,7,namesilo,,,22/09/2026 10:57
 a36cd127-c149-40d8-965a-3f0387a0bd73,peas.computer,available,23.99,38.99,medium,low,4,namesilo,,,18/09/2026 10:13
 9885119f-f996-489c-82e6-a270dd988e91,accumulate.computer,available,22.48,48.98,high,low,10,namecheap,,,12/08/2026 16:47
@@ -221,7 +222,7 @@ c263e7c6-8ecc-43f3-a10b-46e897007ddf,swim.computer,available,29.99,,high,low,4,n
 d33ee72b-fecf-4a67-8551-5df5bb273a6b,removal.computer,available,29.99,,high,low,7,name.com,,,
 37dd5f5e-5819-479a-aac8-3030536bee7d,dickie.computer,available,22.48,48.98,medium,low,6,namecheap,,,14/08/2026 06:30
 b6901104-9f66-4347-8898-30810d5c94ec,unstoppable.computer,available,29.99,,high,low,11,name.com,,,
-b067ee1a-c93b-4fa7-b5c7-72fdc52f2a73,bionic.computer,resell,,,high,low,6,"Sav.com, LLC",30/07/2025 17:06,30/07/2027 17:06,10/08/2026 02:17
+b067ee1a-c93b-4fa7-b5c7-72fdc52f2a73,bionic.computer,resell,,,high,low,6,"NameCheap, Inc.",30/07/2025 17:06,30/07/2027 17:06,26/09/2026 04:26
 290806dc-97ef-436f-823f-92c2b5c47ea1,palpebrate.computer,available,22.48,48.98,medium,low,10,namecheap,,,05/09/2026 00:15
 6bbea62a-494f-4746-b35e-ecec2c4483b4,squared.computer,available,22.48,48.98,high,low,7,namecheap,,,10/09/2026 17:27
 5ecb2c5d-223a-4f4d-bcc7-52681abc5769,backgrounds.computer,available,23.99,38.99,medium,low,11,namesilo,,,20/09/2026 22:12
@@ -258,7 +259,7 @@ c3dc55ab-c984-4e99-a50c-9810f573d036,cloning.computer,available,33.99,50.99,high
 e3e1c9cf-064a-4276-9650-fa29fdc1a67a,meddle.computer,available,29.99,,medium,low,6,name.com,,,
 3bf21263-935c-4030-8d46-b6b38f342f03,hanukkah.computer,available,29.99,,high,low,8,name.com,,,
 5a69785b-b7bf-481d-9f9a-fd2687c2d6c6,cans.computer,available,23.99,38.99,high,low,4,namesilo,,,18/09/2026 22:47
-700bd209-563d-421c-8d31-b52dc844e522,really.computer,available,29.99,,high,low,6,name.com,,,
+700bd209-563d-421c-8d31-b52dc844e522,really.computer,available,23.99,38.99,high,low,6,namesilo,,,27/09/2026 02:35
 0e74b635-cce0-49a3-8e48-f068b32f2a00,thirty.computer,available,22.48,48.98,high,low,6,namecheap,,,
 05d09bcf-90de-49cc-b8a9-fc31bba3660a,unexcited.computer,available,22.48,48.98,medium,low,9,namecheap,,,12/09/2026 09:30
 7bbd1002-831c-45ef-aed4-ef6fc7f2ad07,mixable.computer,available,22.48,48.98,medium,low,7,namecheap,,,25/08/2026 01:25
@@ -274,6 +275,7 @@ d0bdf05a-7bc3-41b0-ad04-d4c308d505ab,athletic.computer,available,23.99,38.99,hig
 8b100e9c-d7e3-4398-9211-ee50a69d3a96,espouse.computer,available,22.48,48.98,high,low,7,namecheap,,,13/09/2026 09:39
 182c8e18-cd24-418d-9963-094cdd7777c1,abasic.computer,available,22.48,48.98,medium,low,6,namecheap,,,
 89ca2d64-a051-4ea8-8e8a-88e6594f04fe,apolune.computer,available,22.48,48.98,medium,low,7,namecheap,,,19/09/2026 18:55
+93105dcd-e124-4358-957b-bd6b042a67cc,biggest.computer,available,23.99,38.99,medium,low,7,namesilo,,,27/09/2026 02:42
 b0180016-d40e-4932-9e88-f462a916c7b6,vendors.computer,available,23.99,38.99,medium,low,7,namesilo,,,20/09/2026 22:00
 fcde9952-f245-496c-84a7-104d08d7cd20,untaught.computer,available,22.48,48.98,medium,low,8,namecheap,,,12/09/2026 18:56
 7f752349-531e-4bae-bc92-5b7f7902130b,venomed.computer,available,22.48,48.98,medium,low,7,namecheap,,,13/09/2026 02:06
@@ -292,6 +294,7 @@ d304654e-97fb-41ae-b6ba-c9ce4cce2886,greenhouse.computer,available,22.48,48.98,h
 fb96fb2c-fbb0-4c96-9a0b-77d0070fa571,condign.computer,available,22.48,48.98,medium,low,7,namecheap,,,12/08/2026 20:26
 ba0d9200-6d4c-4be8-84bb-73eda60604ce,plausible.computer,available,22.48,48.98,high,low,9,namecheap,,,08/09/2026 20:55
 bdcc6d77-8670-493e-887e-2e68c5e3b897,shiatsu.computer,available,23.99,38.99,high,low,7,namesilo,,,17/09/2026 05:40
+33d944a1-9734-40f1-959e-fefd36d9cf58,rex.computer,premium,78.54,78.54,high,low,3,namesilo,,,27/09/2026 04:37
 a7db3ead-1559-4d61-a1a4-c87984d48f7c,disks.computer,available,23.99,38.99,medium,low,5,namesilo,,,18/09/2026 11:49
 9340ca3c-70c1-48ce-9c48-0414c9f4ab97,vehement.computer,available,22.48,48.98,medium,low,8,namecheap,,,11/09/2026 09:44
 44a38fc6-c24e-43f6-9d3a-abf2caf19892,actuary.computer,available,22.48,48.98,high,low,7,namecheap,,,17/09/2026 05:21
@@ -311,6 +314,8 @@ e65bb200-7f4f-4faf-808a-0d2eff179908,bandbox.computer,available,23.99,38.99,high
 0f7e70b7-3383-4bd8-8786-186800527209,aeroplane.computer,available,22.48,48.98,high,low,9,namecheap,,,08/09/2026 20:39
 43804b53-1ff5-45ca-928d-5abf7e8a6850,birdcage.computer,available,22.48,48.98,high,low,8,namecheap,,,23/09/2026 20:32
 ae409a5e-1919-4650-8446-7f730ead522b,jordanian.computer,available,22.48,48.98,high,low,9,namecheap,,,22/08/2026 14:01
+1e9677a4-b322-4f2d-a007-83eb0eaa37c9,chasing.computer,available,23.99,38.99,high,low,7,namesilo,,,27/09/2026 06:54
+f09696a8-d351-40e2-9dee-93a9cbf920eb,denied.computer,available,23.99,38.99,low,low,6,namesilo,,,27/09/2026 02:21
 33b9d12c-312b-4135-9ce5-1de2dcaede17,changeless.computer,available,22.48,48.98,medium,low,10,namecheap,,,12/08/2026 01:58
 c0a3b2b0-8432-402e-9451-b661ffe2b782,burbly.computer,available,22.48,48.98,medium,low,6,namecheap,,,11/08/2026 10:14
 51cfaa0d-8018-4005-b6fb-190cafd45da6,miscellany.computer,available,22.48,48.98,high,low,10,namecheap,,,25/08/2026 08:20
@@ -335,10 +340,11 @@ ae4b349d-401e-493a-9fe1-cee89737d23b,wakeful.computer,available,22.48,48.98,medi
 478fa10d-8862-4256-af1f-14fa9447b0df,garrulous.computer,available,22.48,48.98,medium,low,9,namecheap,,,12/08/2026 03:20
 2c263579-42f7-4c51-b648-1122f69893ca,jumbled.computer,available,22.48,48.98,medium,low,7,namecheap,,,21/08/2026 08:39
 c953de65-39ff-4bdc-87c6-d400dae1e02f,playfield.computer,available,29.99,,high,low,9,name.com,,,
+e76fb158-2c89-4a28-bb61-cb3c4c02e58d,val.computer,premium,85.8,85.8,high,low,3,namecheap,,,27/09/2026 06:29
 f76004d4-14ff-404b-b3cc-414edc03803d,lipitor.computer,available,23.99,38.99,high,low,7,namesilo,,,21/09/2026 00:35
 01c66cf2-3642-46e3-b0a6-185b75f4f3fa,tbd.computer,available,29.99,,high,low,3,name.com,,,
 de539774-04ba-41ff-9038-f44c6784cf41,burned.computer,available,23.99,38.99,medium,low,6,namesilo,,,23/09/2026 11:37
-a40e9e91-8748-4767-afee-7f0e7f6cfb3b,wallet.computer,resell,,,high,medium,6,"Sav.com, LLC",15/08/2025 00:16,15/08/2027 00:16,20/09/2026 21:56
+a40e9e91-8748-4767-afee-7f0e7f6cfb3b,wallet.computer,resell,,,high,medium,6,"Sav.com, LLC",15/08/2025 00:16,15/08/2027 00:16,26/09/2026 10:03
 aca84436-1ee5-4a0e-a0dc-e2ab396e3379,tortious.computer,available,22.48,48.98,medium,low,8,namecheap,,,11/09/2026 17:59
 aef63f73-cd4f-40ee-a2f5-229844ba070b,batna.computer,available,23.99,38.99,medium,low,5,namesilo,,,22/09/2026 14:06
 c61f8c8b-b45a-40fc-b503-40579457ee62,blackmail.computer,available,23.99,38.99,high,low,9,namesilo,,,24/09/2026 02:52
@@ -445,7 +451,9 @@ eaa12334-0fb0-425e-9306-c970e943ac98,determine.computer,available,29.99,,high,lo
 0e36d93c-9f0b-4f45-8014-b0cd1b8bcbcf,compensate.computer,available,29.99,,high,low,10,name.com,,,
 68aa7e05-01a6-40b0-afd0-b295623d4d9f,baedeker.computer,available,23.99,38.99,medium,low,8,namesilo,,,21/09/2026 17:22
 31ecb493-5b2e-4ec5-ad77-5a9f20a9adb5,marriage.computer,available,29.99,,high,low,8,name.com,,,
+e4c707f2-8477-4ffd-a7ad-cdca57be44d3,wilbur.computer,available,23.99,38.99,high,low,6,namesilo,,,27/09/2026 07:43
 df6cb148-b206-4e43-a315-db5a799eab81,howard.computer,premium,78.54,78.54,high,low,6,namesilo,,,25/09/2026 04:08
+b05d6715-c605-46bb-9ed9-41b6630365df,wells.computer,available,23.99,38.99,high,low,5,namesilo,,,27/09/2026 04:19
 956dff6c-d3bc-4583-b688-d5b0ade579ec,blatta.computer,available,23.99,38.99,medium,low,6,namesilo,,,24/09/2026 04:54
 79599e18-618a-4871-b83b-d29c5a244d83,sufficient.computer,available,29.99,,high,low,10,name.com,,,
 6453ae7b-91cb-43bc-a41c-33b1144b772f,autarchy.computer,available,22.48,48.98,medium,low,8,namecheap,,,21/09/2026 05:05
@@ -478,15 +486,18 @@ e117ce1d-3d65-4719-b9b8-a9c2e4b76360,submerged.computer,available,22.48,48.98,me
 7c318fc3-05b5-4aaa-9c4d-065ef85d44eb,boney.computer,available,22.48,48.98,medium,low,5,namecheap,,,10/08/2026 18:44
 0b499f11-084e-4475-9b2a-75eaf19b30de,alhazen.computer,available,23.99,38.99,medium,low,7,namesilo,,,18/09/2026 00:42
 a75bdcd7-42aa-4472-9248-d5fd96c96515,caloric.computer,available,22.48,48.98,medium,low,7,namecheap,,,11/08/2026 15:07
+daa339d3-584d-438d-97e4-2342e6bf07c8,passengers.computer,available,23.99,38.99,medium,low,10,namesilo,,,27/09/2026 02:28
 74418c22-d4d7-445c-9caf-bb4b44867030,heavenward.computer,available,22.48,48.98,medium,low,10,namecheap,,,21/08/2026 02:31
 7a908798-2b18-4d67-92c6-d7c7fdf7f48e,dress.computer,available,23.99,38.99,high,low,5,namesilo,,,24/09/2026 12:08
 8ddb1604-f500-4f1c-b0f8-06709bb51ddd,adenine.computer,available,23.99,38.99,medium,low,7,namesilo,,,17/09/2026 07:24
+3001cc10-f56f-45f0-8b27-18559320d162,kings.computer,available,22.48,48.98,high,low,5,namecheap,,,27/09/2026 07:24
 804d4857-32c7-43e9-ac92-3a26a89e2ab8,fathomable.computer,available,22.48,48.98,medium,low,10,namecheap,,,17/08/2026 23:40
 27bd0f93-5297-4997-829e-cddfbedcbd39,dong.computer,available,29.99,,high,low,4,name.com,,,
 da304f0b-1fea-4acd-8478-7edd68b40234,harmonized.computer,available,22.48,48.98,high,low,10,namecheap,,,12/08/2026 22:50
 11df9b30-fd53-4070-a0d3-ef51a06ca5bc,granddaughter.computer,available,29.99,,high,low,13,name.com,,,
 c9eb4dcc-ce02-4593-8ba9-393609da0c99,slender.computer,available,22.48,48.98,high,low,7,namecheap,,,24/08/2026 01:14
 8609a61e-2c76-437b-be07-6bf17a5f1dca,autoloader.computer,available,23.99,38.99,medium,low,10,namesilo,,,21/09/2026 06:48
+3f63ec79-db7b-4b0c-9f71-b18a7adedef5,emmanuel.computer,available,23.99,38.99,high,low,8,namesilo,,,27/09/2026 03:07
 4dac778a-d7f9-4b48-97ae-14c8c96e92a2,ceylonese.computer,available,22.48,48.98,high,low,9,namecheap,,,12/08/2026 01:10
 4f85b42a-3c4f-4ba1-b4c9-f79df346a37e,chalkboards.computer,available,23.99,38.99,low,low,11,namesilo,,,19/09/2026 23:25
 84180a13-c09e-47c7-918f-6349fd4721c9,parade.computer,available,22.48,48.98,high,low,6,namecheap,,,25/09/2026 09:47
@@ -540,10 +551,10 @@ ef377659-431d-4e9d-ba51-00b0e14aba53,placate.computer,available,22.48,48.98,high
 c7b4e43e-44ef-4c76-b32a-3e87fb2cba47,yards.computer,available,23.99,38.99,high,low,5,namesilo,,,25/09/2026 05:56
 2e3a42ac-54d7-445f-b781-4bc4983f71e3,pigweed.computer,available,22.48,48.98,medium,low,7,namecheap,,,18/09/2026 15:54
 d64de31d-db3e-432b-bc23-55d2352b54ea,octet.computer,available,22.48,48.98,high,low,5,namecheap,,,
-64ab2341-0227-4a41-b801-98325bacb308,prudent.computer,available,29.99,,high,low,7,name.com,,,
+64ab2341-0227-4a41-b801-98325bacb308,prudent.computer,available,23.99,38.99,high,low,7,namesilo,,,27/09/2026 07:54
 fc9a5c5b-05a7-47f7-ab1c-af9d1d458bf1,anorgasmia.computer,available,23.99,38.99,medium,low,10,namesilo,,,19/09/2026 11:47
 8d58e332-4275-441c-a55e-ece583bd364a,decolour.computer,available,22.48,48.98,medium,low,8,namecheap,,,24/09/2026 05:11
-cc989ba7-e19a-422a-82f6-9dbb37cdfda4,vet.computer,resell,,,high,low,3,"GoDaddy.com, LLC",27/06/2016 04:08,27/06/2027 04:08,13/09/2026 05:01
+cc989ba7-e19a-422a-82f6-9dbb37cdfda4,vet.computer,resell,,,high,low,3,"GoDaddy.com, LLC",27/06/2016 04:08,27/06/2027 04:08,26/09/2026 09:58
 39b4e1c9-5af7-4321-87f4-b9f049dcf531,recovered.computer,available,22.48,48.98,high,low,9,namecheap,,,13/08/2026 11:06
 da728362-8c3b-458e-9dce-0c3b7b32fd2a,atropine.computer,available,23.99,38.99,medium,low,8,namesilo,,,21/09/2026 01:00
 4706c463-9571-4e24-83ff-01e395cca0bd,excites.computer,available,23.99,38.99,medium,low,7,namesilo,,,20/09/2026 13:19
@@ -693,6 +704,7 @@ bba477b5-ecbd-4702-acb8-3117515b98b3,firebug.computer,available,22.48,48.98,medi
 b797d45f-3c7d-4014-9089-c8ccc0b4aabd,turkmen.computer,available,22.48,48.98,medium,low,7,namecheap,,,11/09/2026 21:19
 b5e2e6bd-3460-481c-b18a-e3545433df28,mildness.computer,available,23.99,38.99,high,low,8,namesilo,,,24/09/2026 15:30
 12187205-253b-4ef5-8964-d5412f237ca3,hayseed.computer,available,22.48,48.98,medium,low,7,namecheap,,,21/08/2026 08:05
+e7a433f6-90ad-4203-af65-5e78eaf39493,ransom.computer,available,23.99,38.99,medium,low,6,namesilo,,,27/09/2026 05:07
 6cf3bc22-cd14-4a5e-9e0c-4d623173310b,petalous.computer,available,22.48,48.98,medium,low,8,namecheap,,,08/09/2026 18:15
 526dbf47-526c-45df-8df7-0b8388b31430,knavish.computer,available,22.48,48.98,medium,low,7,namecheap,,,13/08/2026 04:34
 508cb0ef-d6cd-4794-8955-240e41a03e50,counts.computer,available,22.48,48.98,high,low,6,namecheap,,,18/09/2026 18:14
@@ -781,6 +793,7 @@ cd18aca7-bb52-4ebb-a467-d6fa5b687186,gawky.computer,available,22.48,48.98,medium
 4682ed4f-17c0-4f0a-80e2-ee8f294d73b8,mouth.computer,available,22.48,48.98,high,low,5,namecheap,,,08/09/2026 03:51
 d402e676-ca93-4e0e-8d9b-9c2750a0d43e,siberian.computer,available,29.99,,high,low,8,name.com,,,
 cf2ee032-29cf-4e33-8f4a-4c773dc00600,acetone.computer,available,22.48,48.98,high,low,7,namecheap,,,17/09/2026 00:07
+72fda44f-b564-4f90-8521-ab98e1ec08c3,terrorists.computer,available,23.99,38.99,low,low,10,namesilo,,,27/09/2026 03:16
 a038d8ca-ab46-4ca7-8cf1-829d1bf0c5d2,splay.computer,available,22.48,48.98,medium,low,5,namecheap,,,10/09/2026 16:06
 863c41a4-f733-4371-aaa5-ffd2f8ead1c1,athene.computer,available,22.48,48.98,high,low,6,namecheap,,,20/09/2026 20:37
 5b4b8a6d-b3a3-4772-a443-0188c697f082,venerating.computer,available,22.48,48.98,high,low,10,namecheap,,,09/09/2026 16:09
@@ -822,10 +835,12 @@ fedc6962-12cc-47ce-a60c-6b880c6c9b7a,birthplace.computer,available,22.48,48.98,h
 de6f041a-ac33-45f2-8bef-e66a4f152da1,norvasc.computer,available,23.99,38.99,medium,low,7,namesilo,,,18/09/2026 21:58
 619d7ba0-8658-4d25-92bb-3bf8b92fefd8,evening.computer,available,22.48,48.98,high,low,7,namecheap,,,24/09/2026 15:27
 18a27c8e-0030-4b89-a6d9-bfa11f9cef23,pendant.computer,available,22.48,48.98,high,low,7,namecheap,,,08/09/2026 14:12
+d55a28d2-bc42-4e89-9edd-3f58bc5fc7b7,halle.computer,available,23.99,38.99,high,low,5,namesilo,,,27/09/2026 04:25
 d67a6f3c-10c5-422a-b67c-b84316320832,caller.computer,available,22.48,48.98,high,low,6,namecheap,,,11/08/2026 14:28
 faa4aa6f-d743-4084-b147-a773bcabd617,absorbent.computer,available,22.48,48.98,high,low,9,namecheap,,,
 f6e8f524-f264-4097-ba85-2f28e9a8f35b,component.computer,available,22.48,48.98,high,low,9,namecheap,,,23/09/2026 20:58
 7d0e1e5f-e4b0-4894-be18-49a84d1a880b,distributions.computer,available,23.99,38.99,medium,low,13,namesilo,,,25/09/2026 21:52
+8bb8fc45-7e0d-4e59-a5ad-0042a004fec8,grabbed.computer,available,23.99,38.99,medium,low,7,namesilo,,,27/09/2026 03:19
 fee90aed-9f44-491a-88d2-763a213090a2,tewkesbury.computer,available,23.99,38.99,medium,low,10,namesilo,,,22/09/2026 16:07
 2a4ea604-2fcf-4c24-abef-9929d6116016,precursors.computer,available,23.99,38.99,medium,low,10,namesilo,,,21/09/2026 00:35
 b2d1c79b-cfa2-4dad-a314-b427129ea00a,balfour.computer,available,22.48,48.98,medium,low,7,namecheap,,,16/09/2026 12:19
@@ -881,6 +896,7 @@ ca141933-314d-414e-8649-a918bc92779d,harlot.computer,available,33.99,50.99,mediu
 4291a3ff-1628-49c1-9775-41d5fe31d1c5,nerve.computer,available,23.99,38.99,high,low,5,namesilo,,,25/09/2026 23:41
 3d200e00-1a53-472f-a4fb-1708487067f5,nagging.computer,available,22.48,48.98,medium,low,7,namecheap,,,03/09/2026 12:41
 3f911781-9fa6-46d5-a8c4-7e08f5230ff7,frizzly.computer,available,22.48,48.98,medium,low,7,namecheap,,,18/08/2026 16:06
+c67a53b8-bc09-408a-a2b8-926f1b3f4205,employees.computer,available,23.99,38.99,medium,low,9,namesilo,,,27/09/2026 02:50
 0fc98ecb-d405-4ba2-a8fc-c4373f1b3dab,road.computer,available,29.99,,high,low,4,name.com,,,
 d133a7b0-3c91-4f58-9e61-cce7f5b5440c,poky.computer,available,22.48,48.98,medium,low,4,namecheap,,,14/08/2026 07:34
 c7f97141-d8fd-466b-b9c7-e67b20a87c7e,genteel.computer,available,22.48,48.98,high,low,7,namecheap,,,13/08/2026 10:19
@@ -928,13 +944,14 @@ e74c2b14-07a4-4e9d-8393-9b454f1104f9,slacking.computer,available,29.99,,medium,l
 123e17dc-612a-4c1f-9cef-abf373f1d37a,magazine.computer,available,23.99,38.99,high,low,8,namesilo,,,25/09/2026 04:04
 d68a2a6b-2906-4fe9-be92-84bd08790bfc,nullified.computer,available,22.48,48.98,medium,low,9,namecheap,,,22/08/2026 08:56
 97e7edf9-951c-405b-b981-19e761bce6eb,starch.computer,available,23.99,38.99,high,low,6,namesilo,,,19/09/2026 00:32
+e0263a4f-cfc7-4131-a596-a3637e260e3c,alexandra.computer,available,23.99,38.99,medium,low,9,namesilo,,,27/09/2026 02:30
 aceaa5bb-d17b-4d11-aad6-6502c649b2a4,alsace.computer,available,23.99,38.99,high,low,6,namesilo,,,18/09/2026 14:15
 31c0e4cb-8ef7-4bf2-a09c-277f56bd59c2,threadfish.computer,available,23.99,38.99,medium,low,10,namesilo,,,18/09/2026 04:49
 1c634181-65e7-43b9-b282-2984543ef23b,tantrum.computer,available,22.48,48.98,high,low,7,namecheap,,,18/08/2026 05:41
 8c36072d-1eee-43c9-8e1d-ef5ff5f9815e,prefigure.computer,available,22.48,48.98,medium,low,9,namecheap,,,21/09/2026 03:35
 8bea0abd-2447-4df5-bab6-e7c47a0e7cee,troth.computer,available,23.99,38.99,medium,low,5,namesilo,,,23/09/2026 11:35
 4d2ef68f-b5b1-408a-bdb9-4233fdbbe374,organized.computer,available,23.99,38.99,high,low,9,namesilo,,,26/09/2026 00:25
-0113512e-837c-4fbe-b8e2-c790730a5da5,walk.computer,available,29.99,,high,low,4,name.com,,,
+0113512e-837c-4fbe-b8e2-c790730a5da5,walk.computer,available,22.48,48.98,high,low,4,namecheap,,,27/09/2026 02:47
 4dc61514-8751-4db4-a473-dc9e3f909a60,indelible.computer,available,22.48,48.98,high,low,9,namecheap,,,22/08/2026 02:37
 3b45f071-fc84-401f-95e0-6e6d6f290249,bpi.computer,available,23.99,38.99,high,low,3,namesilo,,,23/09/2026 22:46
 b708df91-5087-4730-a5f7-64405c0fc650,cheery.computer,available,22.48,48.98,high,low,6,namecheap,,,12/08/2026 03:56
@@ -964,13 +981,14 @@ be818645-7080-4485-b31f-d27815a957a0,unq.computer,available,23.99,38.99,medium,l
 ee02844f-af2c-4aa2-9742-4ba571f19f5c,liaise.computer,available,22.48,48.98,high,low,6,namecheap,,,22/08/2026 08:15
 6f52760c-cfec-4f8c-9008-69ac9ad44174,surpassing.computer,available,22.48,48.98,high,low,10,namecheap,,,17/08/2026 16:03
 fe9faa96-7f67-4230-9709-87d4466be831,puffy.computer,available,22.48,48.98,high,low,5,namecheap,,,10/08/2026 21:34
+fb37d7df-e82e-4b56-a528-af260a3c1a6a,dumped.computer,available,22.48,48.98,low,low,6,namecheap,,,27/09/2026 03:17
 5f5ee454-db9c-4732-8651-60ab5ead848a,producing.computer,available,29.99,,medium,low,9,name.com,,,
 13ffa660-b598-4c5d-84fd-5394b1661162,ternion.computer,available,22.48,48.98,medium,low,7,namecheap,,,
 55c175fc-1a95-4486-ae94-854fca355373,achene.computer,available,23.99,38.99,medium,low,6,namesilo,,,17/09/2026 00:28
 f6093b31-63b1-42ba-8581-7f78f9264c77,curd.computer,available,22.48,48.98,high,low,4,namecheap,,,24/09/2026 20:24
 1ba3729f-0e52-488c-adf7-d9fd0d7a6725,untracked.computer,available,22.48,48.98,medium,low,9,namecheap,,,08/09/2026 10:31
 4f9c980e-c618-4cd0-8db1-8a287068cd94,dismissal.computer,available,29.99,,high,low,9,name.com,,,
-465f067f-14a0-4ad5-9ee7-8d394c5fbee0,aryan.computer,resell,,,high,high,5,"Sav.com, LLC",15/11/2024 14:52,15/11/2025 14:52,
+465f067f-14a0-4ad5-9ee7-8d394c5fbee0,aryan.computer,available,23.99,38.99,high,high,5,namesilo,,,26/09/2026 04:03
 76e807a9-d40c-45ff-ad4b-ee8f088ef7e6,gassy.computer,available,22.48,48.98,medium,low,5,namecheap,,,12/08/2026 16:36
 3296e437-d4be-45a0-b18d-375a5360cf07,saler.computer,available,29.99,,medium,low,5,name.com,,,
 6e9a5a4e-7d6b-4605-bddc-5faae39c8638,blighted.computer,available,22.48,48.98,medium,low,8,namecheap,,,10/08/2026 14:17
@@ -981,21 +999,3 @@ d22711c0-486c-4c69-8d04-ff63dc630f29,guyanese.computer,available,22.48,48.98,hig
 8be45888-6a4c-4158-9168-cf48e612e6e1,spineless.computer,available,22.48,48.98,medium,low,9,namecheap,,,22/08/2026 08:58
 eb750cf2-16b7-477c-8624-65c8ac2bdeb5,felid.computer,available,22.48,48.98,medium,low,5,namecheap,,,18/08/2026 00:54
 dcaf3275-9bc8-4ab2-89ec-d9960b4c4b08,newsstand.computer,available,23.99,38.99,medium,low,10,namesilo,,,17/09/2026 05:46
-e13e927a-15fa-479e-92d9-54dde554c634,hanoverian.computer,available,22.48,48.98,medium,low,10,namecheap,,,20/08/2026 23:44
-465d14cb-c1a4-493e-9e85-6d89df5d7002,reprint.computer,available,22.48,48.98,high,low,7,namecheap,,,10/09/2026 04:03
-b824bd11-61f8-4607-a040-6f86a44341f4,prolife.computer,available,29.99,,high,low,8,name.com,,,
-aa19e8e9-fad0-462d-8442-e16386d515e6,lenticular.computer,available,22.48,48.98,high,low,10,namecheap,,,09/08/2026 19:26
-24701250-c9f1-4bd3-b05c-8dd93929d966,pile.computer,available,22.48,48.98,high,low,4,namecheap,,,25/08/2026 00:39
-bae1a571-81de-467e-a8e4-7ad2162d4c72,anuran.computer,available,22.48,48.98,medium,low,6,namecheap,,,05/08/2026 20:48
-1cbd536f-97f0-451e-a939-45ef88d73dea,iterative.computer,available,22.48,48.98,high,low,9,namecheap,,,22/08/2026 11:39
-37193f3e-1fdf-432f-9ccf-455ddf390a1a,providence.computer,premium,38.94,38.94,high,low,10,namesilo,,,
-61baf9fb-e1b4-404c-a46a-8daf7c9bf909,navel.computer,available,22.48,48.98,high,low,5,namecheap,,,23/09/2026 06:35
-d54ee84b-c995-430a-bca4-7a9752099718,upraised.computer,available,22.48,48.98,medium,low,8,namecheap,,,23/08/2026 01:53
-5c7406d2-0206-4222-800c-90fb8a3942be,silvery.computer,available,22.48,48.98,high,low,7,namecheap,,,06/08/2026 17:56
-1a95094c-4ca5-4800-8c89-28c56081b2d3,navy.computer,available,29.99,,high,low,4,name.com,,,
-a175175f-eca5-4a14-b04a-d9973abf0f40,anhinga.computer,available,23.99,38.99,medium,low,7,namesilo,,,19/09/2026 08:18
-018302d9-6fb8-4f5a-83f7-b8869d9a410d,sixth.computer,available,22.48,48.98,high,low,5,namecheap,,,
-55ea5463-023a-4dc8-b8fb-a0617f00ae55,recurrent.computer,available,22.48,48.98,high,low,9,namecheap,,,09/09/2026 11:57
-54563992-4b2e-46a7-9136-51e64e2a3309,abydos.computer,available,23.99,38.99,medium,low,6,namesilo,,,16/09/2026 19:41
-78c61c4a-69f2-478f-9193-58179e883644,visualised.computer,available,22.48,48.98,high,low,10,namecheap,,,17/08/2026 10:03
-6d2cd331-1d94-4f8e-839b-8ef7d1d13022,lived.computer,available,22.48,48.98,high,low,5,namecheap,,,25/09/2026 20:09
